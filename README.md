@@ -4,7 +4,7 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwZhiSong?style=flat-square)](https://github.com/lxgw/LxgwZhiSong/releases/latest)
 
 ## 項目介紹
-2009 年，日本「獨立行政法人情報處理推進機構」（IPA）將「IPA 明朝」和「IPA ゴシック」兩款字型按照 IPA Font License 開源發佈。這兩款字型分別衍生自 TypeBank 公司出品的、由林隆男（Takao Hayashi）設計的[「TB 明朝」](https://www.typebank.co.jp/fontfamily/tbmincho/)和[「TB ゴシック」](https://www.typebank.co.jp/fontfamily/tbgothic/)。後經多年持續修訂，兩款字體擴充成[「IPAex 明朝」「IPAex ゴシック」](https://moji.or.jp/ipafont/)，包含 JIS 第一～第四水準的字符。而[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)是對「IPAex 明朝」的進一步擴充，包含了「文字情報基盤」所涵蓋的漢字及其諸多 IVD 變體。
+2009 年，日本「獨立行政法人情報處理推進機構」（IPA）將「IPA 明朝」和「IPA ゴシック」兩款字型按照 IPA Font License 開源發佈。這兩款字型分別衍生自 TypeBank 公司出品的、由林隆男（Takao Hayashi）設計的[「TB 明朝」](https://www.typebank.co.jp/fontfamily/tbmincho/)和[「TB ゴシック」](https://www.typebank.co.jp/fontfamily/tbgothic/)。後經多年持續修訂，兩款字型擴充成[「IPAex 明朝」「IPAex ゴシック」](https://moji.or.jp/ipafont/)，包含 JIS 第一～第四水準的字符。而[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)是對「IPAex 明朝」的進一步擴充，包含了「文字情報基盤」所涵蓋的漢字及其諸多 IVD 變體。
 
 本項目「霞鶩緻宋」爲「IPAex 明朝」的衍生字型項目，在原始字型的基礎上，利用原有的部件和筆形，增補原始字型未包含的字，並對原有的部分漢字按照舊式印刷常見字形進行調整。
 
