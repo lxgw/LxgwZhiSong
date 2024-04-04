@@ -1,4 +1,4 @@
-# LXGW ZhiSong / 霞鶩緻宋
+# LXGW ZhiSong / 霞鶩緻宋 / LXGW 緻明朝
 A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的中文字型。
 
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwZhiSong?style=flat-square)](https://github.com/lxgw/LxgwZhiSong/releases/latest)
