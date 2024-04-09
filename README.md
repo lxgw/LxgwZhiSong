@@ -52,6 +52,7 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 - [共通中文界面](https://www.ccli.gov.hk/tc/iicore/)
 - [書同文漢字網 IICore 兩岸四地校對平臺](https://hanzi.unihan.com.cn/IICoreExt)
 - [IICore 字表（TXT 格式）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt)
+- [DWPI 明朝](https://www.digitalwidearea.org/dwpi_mincho)
 ### 相關工具
 - [漢文博士](https://www.cnblogs.com/hanbox)
 - [字統網](https://zi.tools/)
