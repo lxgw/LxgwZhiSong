@@ -17,6 +17,7 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 
 ![](./documentation/images/zs-compare-1.png)
 ![](./documentation/images/zs-compare-2.png)
+![](./documentation/images/zs-compare-3.png)
 
 詳細的維護計劃請參閱：[《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)（位於「霞鶩晰黑」Repo）。
 
