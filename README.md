@@ -61,3 +61,6 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 ### 相關工具
 - [漢文博士](https://www.cnblogs.com/hanbox)
 - [字統網](https://zi.tools/)
+## 另請參閱
+- [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
