@@ -63,7 +63,7 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 - [漢文博士](https://www.cnblogs.com/hanbox)
 - [字統網](https://zi.tools/)
 ## 更多「霞鶩」系列字型
-### 與本項目有關聯的字型
+### 「晰緻尚銘」系列
 - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 - [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
