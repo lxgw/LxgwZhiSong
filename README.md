@@ -20,7 +20,7 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 ![](./documentation/images/zs-compare-3.png)
 ![](./documentation/images/zs-compare-4.png)
 
-詳細的維護計劃請參閱：[《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)（位於「霞鶩晰黑」Repo）。
+詳細的維護計劃請參閱：[《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)（跳轉到「霞鶩晰黑」Repo）。
 
 ## 收字情況
 首次發佈的「霞鶩緻宋」收錄「國際表意文字核心」（IICore）範圍內的 [9810 個漢字](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt)。
