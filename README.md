@@ -65,9 +65,9 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 ## 更多「霞鶩」系列字型
 ### 「晰緻尚銘」系列
 - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
-- 霞鶩緻宋 / LXGW Neo ZhiSong
-- [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+- 霞鶩緻宋 / LXGW ZhiSong
 - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+- [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鶩尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
 - [霞鶩銘心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
 ### 「霞鶩文楷」系列
