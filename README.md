@@ -10,6 +10,8 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 
 2020 年末，[「霞鶩晰黑」](https://github.com/lxgw/LxgwXiHei)項目創建，以一點字坊「傳承字形標準化文件」爲主要參考，對「IPAex ゴシック」進行改造。後由於傳承字形部件規則的複雜性，以及時間原因，「霞鶩晰黑」項目曾於 2021 年 7 月放棄維護並歸檔。由於近來[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)和[「霞鶩新緻宋」](https://github.com/lxgw/LxgwNeoZhiSong)的發佈和持續完善，2024 年春，本人決定重啓「霞鶩晰黑」，並新創建本項目，在「霞鶩新晰黑／新緻宋」基礎上回歸舊字形寫法，原有「霞鶩晰黑」推倒重來。
 
+「霞鶩緻宋」支持 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號切換，[點擊此處查看對應規則](documentation/uvs.pdf)。
+
 ## 總體計劃
 本字型計劃發佈兩種不同字形版本。
 - **Classic（CL）版：** 參考早期鉛字印刷字形常見寫法，回歸舊式印刷字形，合併一部分「源規格分離」原則下分化的異碼字。
