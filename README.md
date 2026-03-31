@@ -70,7 +70,9 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 - [字統網](https://zi.tools/)
 
 <div  align="center">
-<img src="https://raw.githubusercontent.com/lxgw/Pengli/main/documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+<a href="https://www.high-logic.com/font-editor/fontcreator">
+  <img src="https://raw.githubusercontent.com/lxgw/Pengli/main/documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+</a>
 </div>
 
 ## 更多「霞鶩」系列字型
