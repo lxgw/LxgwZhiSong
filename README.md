@@ -99,7 +99,11 @@ A Chinese font derived from IPAex Mincho. 一款衍生於「IPAex 明朝」的�
 </a>
 </div>
 
-## 更多「霞鶩」系列字型
+<h2>
+<img alt="霞鶩開源字型" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-tc-day.svg#gh-light-mode-only" width = "512" height = "128"/>
+<img alt="霞鶩開源字型" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-tc-night.svg#gh-dark-mode-only" width = "512" height = "128"/>
+</h2>
+
 ### 「晰緻尚銘」系列
 - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 - **霞鶩緻宋 / LXGW ZhiSong**
